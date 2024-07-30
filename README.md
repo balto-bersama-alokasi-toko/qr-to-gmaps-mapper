@@ -1,1 +1,1 @@
-# qr-to-gmaps-mapper
+# map-gmaps-to-qr
